@@ -184,6 +184,18 @@ input[type="submit"]:hover , input[type="reset"]:hover , input[type="button"]:ho
 	background: #111;
 	} 
 .big{font-size:18px;}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
 /*=====================================
 = Responsive CSS
 =====================================*/
