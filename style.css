@@ -176,7 +176,7 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
 	text-transform: uppercase;
 	white-space: nowrap;
 	}
-input[type="submit"] a, input[type="reset"] a, input[type="button"] a, input[type="link"] a, .button a { 
+input[type="submit"] a, input[type="reset"] a, input[type="button"] a, .button a { 
 	color:#fff;
 	text-decoration:none;
 	}
