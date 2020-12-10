@@ -71,16 +71,7 @@ pre,code,tt{font:13px 'andale mono','lucida console',monospace;line-height:18px}
 /*=====================================
 = Header
 =====================================*/
-header { 
-	background-image: url("http://2.bp.blogspot.com/-cg86ARdOaoQ/VUO1D12tKqI/AAAAAAAABdE/_xTGXKDQ3pc/s1600/overlay.png"), url("https://1.bp.blogspot.com/-hS_Lk6qM734/XkNX_OpRuQI/AAAAAAAAAA8/tWH0qo1LlZ4AmndRVGDF7Kk-7STp8hnMgCLcBGAsYHQ/s1600/2017-04-08_BSoHKXsFhxV.jpg"); 
-	background-color: #23b5ab; 
-	background-size: cover !important; 
-	padding: 54px 0px 450px 0px; 
-	float: left; 
-	width: 100%; 
-	background-position: center top; 
-	background-attachment: fixed;
-	}
+
 #margin-1200{ 
 	margin:auto; 
 	width:1200px;
